@@ -4,7 +4,12 @@
         {"id":1,"name":"Television"}
     ],
     "L2Category":[
-        {"L2Category":"Headphone2"}
+        {"L2Category":[
+            {"id":1,"name": "Custom_name_1"},
+            {"id":2,"name": "Custom_name_2"}
+        ],
+        "special":"special"
+    }
     ],
     "L3Category":[
         {"L3Category":"Headphone3"}
