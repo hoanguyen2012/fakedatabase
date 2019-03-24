@@ -1,6 +1,7 @@
 {
     "L1Category":[
-        {"L1Category":"Headphone"}
+        {"id":1,"name":"Headphone"},
+        {"id":1,"name":"Television"}
     ],
     "L2Category":[
         {"L2Category":"Headphone2"}
