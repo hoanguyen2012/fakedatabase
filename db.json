@@ -1,5 +1,11 @@
 {
-    "L1Category":"headphone",
-    "L2Category": "headphone",
-    "L3Category": "WX300"
+    "L1Category":[
+        {"L1Category":"Headphone"}
+    ],
+    "L2Category":[
+        {"L2Category":"Headphone2"}
+    ],
+    "L3Category":[
+        {"L3Category":"Headphone3"}
+    ]
 }
